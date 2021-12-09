@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "oxoJIfC1RHltUQ3D1XOIz/CRnA59Xisd7VJXW6DSN53icljix+mY2di1rpIXOZGufTlSKBSdLQPG81oH7lnwaw==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\LabcorpAuto\\LabcorpAuto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SERGU\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\SERGU\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\SERGU\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\SERGU\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\SERGU\\.nuget\\packages\\selenium.support\\4.1.0\\selenium.support.4.1.0.nupkg.sha512",
+    "C:\\Users\\SERGU\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512",
+    "C:\\Users\\SERGU\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512"
+  ],
+  "logs": []
+}
